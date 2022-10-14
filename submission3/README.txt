@@ -11,7 +11,8 @@ Name, Author, Edition, year and publisher of the Book:
 Principles of Distributed Database Systems
 M Tamer Ozsu, Patrick Valduriez
 3rd Edition
-Pearson
+2011
+Springer
 
 
 Link to the book:
