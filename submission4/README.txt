@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/PgvX5I2BZP8
 
 Conference submitted paper / paper submission / login Link:
-https://easychair.org/
+https://easychair.org/conferences/?conf=europar2023
 
 Paper title:
 A Comparative Study between DeepSpeed and Horovod, two Distributed Deep Learning Frameworks
